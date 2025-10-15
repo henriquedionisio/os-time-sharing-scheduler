@@ -1,0 +1,8 @@
+# Binários Java
+*.class
+/out/
+/bin/
+/target/
+
+# Logs opcionais
+# log*.txt
